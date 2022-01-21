@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @melese mihret wondim
+👋 Hi, I’m @melese mihret wondim
+- 👀 I’m interested in AWS Solution Architect and DevOps.
+- 🌱 I’m currently working as AWS Solution Architect
 
 PROFILE SUMMARY:
 
@@ -19,7 +21,7 @@ Operating Systems:
 - iOS, 
 - Mac OS, 
 - Linux
--
+
 Applications:
 
 - Microsoft Office 365, 
@@ -42,9 +44,9 @@ Networking:
 Databases:
 - MySQL, SQL, Oracle, Microsoft Access, AWS Aurora, Mango DB
 
-======
-👀 I’m interested in AWS Solution Architect and DevOps.
-🌱 I’m currently working as AWS Solution Architect
+
+
+
 - 📫 
 How to reach me 
   - email: mls.wondim@gmail.com
