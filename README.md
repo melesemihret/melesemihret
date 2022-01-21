@@ -42,12 +42,16 @@ Networking:
 - TCP/IP, Routing / Switching and Firewall, cyber security
 
 Databases:
-- MySQL, SQL, Oracle, Microsoft Access, AWS Aurora, Mango DB
+- MySQL, 
+- SQL, 
+- Oracle, 
+- Microsoft Access, 
+- AWS Aurora, 
+- Mango DB
 
 
 
-
-- 📫 
+📫 
 How to reach me 
   - email: mls.wondim@gmail.com
   - LinkedIn: https://www.linkedin.com/in/melesewondim
