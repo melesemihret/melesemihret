@@ -13,13 +13,34 @@ PROFILE SUMMARY:
 •	Excellent oral and written communication skills of English
 
 TECHNICAL SKILLS:
-Operating Systems:  Windows, Android, iOS, Mac OS, Linux
-Applications:  Microsoft Office 365, AWS, Power BI, Azure Data Engineering
-Tools:  VMware, Packet Tracer, MS Visio, MS Project, arc serve, Windows server,
-Project Management:  Agile, Waterfall, and Gantt Charts, Jira
-Languages:   HTML5, PowerShell, Visual.NET, Java, Java Script, JSON, CSS, Python, PHP, Git, Bash, React, Angular, Vue
-Networking: TCP/IP, Routing / Switching and Firewall, cyber security
-Databases:   MySQL, SQL, Oracle, Microsoft Access, AWS Aurora, Mango DB
+Operating Systems:
+- Windows, 
+- Android,
+- iOS, 
+- Mac OS, 
+- Linux
+-
+Applications:
+
+- Microsoft Office 365, 
+- AWS, 
+- Power BI, 
+- Azure Data Engineering
+
+Tools:  
+- VMware, Packet Tracer, MS Visio, MS Project, arc serve, Windows server,
+
+Project Management:
+- Agile, Waterfall, and Gantt Charts, Jira
+
+Languages:
+- HTML5, PowerShell, Visual.NET, Java, Java Script, JSON, CSS, Python, PHP, Git, Bash, React, Angular, Vue
+
+Networking:
+- TCP/IP, Routing / Switching and Firewall, cyber security
+
+Databases:
+- MySQL, SQL, Oracle, Microsoft Access, AWS Aurora, Mango DB
 
 
 - 👀 I’m interested in AWS Solution Architect and DevOps.
