@@ -2,15 +2,15 @@
 
 PROFILE SUMMARY:
 
-•	Over 9+ years of professional experience in Information Technology with extensive experience 
-•	Manage the AWS infrastructure and strategic vendor relationships including development firms
-•	Work with internal teams to create the migration process of legacy systems to the AWS cloud
-•	Work with Security division to design and manage IAM roles for users, vendors and other third party vendors and understanding of security requirements for cloud
-•	Hands on experience designing Scalable AWS solutions
-•	Ability to work in culturally diverse, creative, team oriented and collaborative environment
-•	Excellent in organizational, time management and prioritizing skills 
-•	Adhere industrial Safety standards, Human factors and operating practices
-•	Excellent oral and written communication skills of English
+-	Over 9+ years of professional experience in Information Technology with extensive experience 
+-	Manage the AWS infrastructure and strategic vendor relationships including development firms
+-	Work with internal teams to create the migration process of legacy systems to the AWS cloud
+-	Work with Security division to design and manage IAM roles for users, vendors and other third party vendors and understanding of security requirements for cloud
+-	Hands on experience designing Scalable AWS solutions
+-	Ability to work in culturally diverse, creative, team oriented and collaborative environment
+-	Excellent in organizational, time management and prioritizing skills 
+-	Adhere industrial Safety standards, Human factors and operating practices
+-	Excellent oral and written communication skills of English
 
 TECHNICAL SKILLS:
 Operating Systems:
@@ -42,11 +42,14 @@ Networking:
 Databases:
 - MySQL, SQL, Oracle, Microsoft Access, AWS Aurora, Mango DB
 
+======
+-👀
+I’m interested in AWS Solution Architect and DevOps.
+- 🌱 
+I’m currently working as AWS Solution Architect
 
-- 👀 I’m interested in AWS Solution Architect and DevOps.
-- 🌱 I’m currently working as AWS Solution Architect
-
-- 📫 How to reach me 
+- 📫 
+How to reach me 
   - email: mls.wondim@gmail.com
   - LinkedIn: https://www.linkedin.com/in/melesewondim
 
