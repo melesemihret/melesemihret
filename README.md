@@ -43,11 +43,8 @@ Databases:
 - MySQL, SQL, Oracle, Microsoft Access, AWS Aurora, Mango DB
 
 ======
--👀
-I’m interested in AWS Solution Architect and DevOps.
-- 🌱 
-I’m currently working as AWS Solution Architect
-
+👀 I’m interested in AWS Solution Architect and DevOps.
+🌱 I’m currently working as AWS Solution Architect
 - 📫 
 How to reach me 
   - email: mls.wondim@gmail.com
